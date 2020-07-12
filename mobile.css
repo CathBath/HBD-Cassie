@@ -1,0 +1,41 @@
+@media only screen and (max-width: 900px) {
+	.dummy {
+		display: block;
+	}
+
+	.hero-text {
+		width: 100%;
+		margin: auto;
+		font-size: 3.5rem;
+	}
+
+	.date {
+		display: block;
+		width: 80%;
+		margin: auto;
+		margin-top: 2rem;
+	}
+
+	.img-container {
+		top: 0;
+		margin: auto;
+		width: 100%;
+		margin-top: 2rem;
+	}
+	.img-container-1 {
+		width: 100%;
+		margin: auto;
+	}
+
+	.img-container-2 {
+		width: 100%;
+		margin: auto;
+	}
+
+	.box {
+		width: 90%;
+	}
+	.box h1 {
+		font-size: 3rem;
+	}
+}
